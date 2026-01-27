@@ -27,8 +27,11 @@ AI-assisted web data extraction and automation platform.
 #### 🏀 [NBA Daily Summary Podcast](https://github.com/DamiMartinez/nba-agents)
 AI-generated daily NBA updates, scores, and insights.
 
-#### 📧 [AI & Data Initiatives](https://damianmartinezcarmona.substack.com/)
-Insights on AI, data engineering, and building end-to-end data pipelines shared via my Newsletter and [YouTube Channel](https://www.youtube.com/channel/UCyHVEnyT2vLHIgq_71wFF8w).
+#### 📧 [Damian's Newsletter - AI x Data](https://damianmartinezcarmona.substack.com/)
+Insights on AI, data engineering, and building end-to-end data pipelines.
+
+#### ▶️ [My YouTube Channel](https://www.youtube.com/channel/UCyHVEnyT2vLHIgq_71wFF8w)
+Videos about AI, data engineering and other tech stuff.
 
 ---
 
