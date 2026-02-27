@@ -21,8 +21,8 @@ I’m passionate about transforming complex data into actionable intelligence an
 **CEO & Founder** – AI evaluation and optimization platform for product teams.
 We help Product Managers and domain experts evaluate AI systems without engineering overhead, using our Hybrid CX Score to combine traditional metrics (CSAT, NPS) with LLM-powered insights.
 
-#### 🤖 [ScrapeAgent](https://www.scrapeagent.ai/)
-AI-assisted web data extraction and automation platform.
+#### 🤖 [ScrapeAgent](https://github.com/DamiMartinez/scrapeagent)
+Open source AI-assisted web data extraction agent using Google ADK and Agent Skills.
 
 #### 🏀 [NBA Daily Summary Podcast](https://github.com/DamiMartinez/nba-agents)
 AI-generated daily NBA updates, scores, and insights.
