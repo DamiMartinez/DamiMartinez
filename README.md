@@ -30,7 +30,7 @@ AI-generated daily NBA updates, scores, and insights.
 #### 📧 [Damian's Newsletter - AI x Data](https://damianmartinezcarmona.substack.com/)
 Insights on AI, data engineering, and building end-to-end data pipelines.
 
-#### ▶️ [My YouTube Channel](https://www.youtube.com/channel/UCyHVEnyT2vLHIgq_71wFF8w)
+#### ▶️ [My YouTube Channel (in Spanish)](https://www.youtube.com/channel/UCyHVEnyT2vLHIgq_71wFF8w)
 Videos about AI, data engineering and other tech stuff.
 
 ---
