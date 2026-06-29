@@ -1,4 +1,4 @@
-# Hi there, I'm Damian Martinez Carmona 👋
+# Hey, I'm Damian Martinez Carmona 👋
 
 ### AI & Data Leader | Entrepreneur | Builder of AI-Driven Products
 
